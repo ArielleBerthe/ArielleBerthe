@@ -17,3 +17,13 @@ Join me on this journey and let’s learn together!
 - Operating Systems Knowledge: Understanding how operating systems work and are managed, especially Linux and Windows.
 - Research Skills: Ability to search for and analyze relevant information about new threats and vulnerabilities.
 - Communication: Skills to document and communicate your findings clearly and effectively.
+
+## Proyects
+<table>
+  <tr>
+    <td widht="50">
+      <h3 align="center">Curso Android Básico</h3>
+      <div align="center">
+        <a href="
+  </tr>
+</table>
